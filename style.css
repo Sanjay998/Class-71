@@ -1,0 +1,100 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 999999;
+}
+
+.travel_mainDIV {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_mainDIV img {
+    width: 100%;
+}
+
+.travel_mainDIV hr {
+    width: 230px;
+}
+
+.travel_mainDIV h5,
+.travel_mainDIV p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.Environment_li {
+    margin-top: 13px;
+}
+
+.Environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.Environment_li img {
+    border-radius: 25px;
+}
+
+.Environment_li p {
+    margin-top: 10px;
+}
+
+.Book {
+    cursor: pointer;
+}
+
+.Book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.book_covers {
+    max-height: 600px;
+    max-width: 200px;
+}
+
+#About_Me iframe{
+    width: 100%;
+}
+
+.contact_1 h3{
+    display: inline;
+}
+
+.contact_1 a{
+    text-shadow: none;
+}
